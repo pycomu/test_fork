@@ -1,4 +1,6 @@
 name = "Joe"
 age = 30
 
-print(f"My name is {name} and I'am {age} years old.")
+place = "Hamburg"
+
+print(f"My name is {name} and I'am {age} years old. I'am from {place}.")
